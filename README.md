@@ -15,10 +15,15 @@ robustness_analysis_final.ipynb,
 Python files for simulation/optimization;
 
 optimization.py (just for some minor bugs),
+
 problem_formulation_project_final.py (adjusted problem formulations for simulation and optimization),
+
 dike_model_simulation_final_0policy.py (simulation file used for the scenario discovery based on a 'zero policy'),
+
 dike_model_optimization_project_final.py (Optimization of policies with our 5 picked scenarios from scenario discovery),
+
 dike_model_simulation_final_specific_policies_scenarios.py (857 found policies in optimization simulated times the 5 found scenarios to create experiments of each policy over every scenario),
+
 dike_model_simulation_final_specific_policies.py (Final simulation of 5 policies, each simulated 20.000 times over random scenarios to further analyze robustness),
 
 CSV- and output files:
@@ -42,9 +47,14 @@ dike_model_combined_results.csv (output: dike_model_simulation_final_specific_po
 output of: dike_model_simulation_final_specific_policies.py input for: robustness_analysis_final.ipynb,
 
 dike_model_results_policy_policy_13.tar.gz
+
 dike_model_results_policy_policy_34.tar.gz
+
 dike_model_results_policy_policy_133.tar.gz
+
 dike_model_results_policy_policy_138.tar.gz
+
 dike_model_results_policy_policy_157.tar.gz
+
 
 The rest of the files in the folder are untouched and directly pulled from: https://github.com/quaquel/epa141A_open/tree/master/final%20assignment
