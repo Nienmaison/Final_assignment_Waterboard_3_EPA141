@@ -5,8 +5,11 @@ Structure of created and edited files in final assignment folder:
 Notebooks for analysis;
 
 global_sensitivity_analysis_final.ipynb,
+
 open_exploration_final.ipynb,
+
 directed_search_final.ipynb,
+
 robustness_analysis_final.ipynb,
 
 Python files for simulation/optimization;
